@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output).
 import os
 from pathlib import Path
 
-LINE = "Sorry I'm late \u2014 I spent the deadline confidently hallucinating a finished report, then had to delete it one plausible paragraph at a time."
+LINE = "I missed the deadline because I confidently hallucinated the finished report, then spent two days deleting it one plausible paragraph at a time."
 MAX_CHARS = 200
 
 
